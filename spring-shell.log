@@ -1,0 +1,111 @@
+1707930418387:help
+1707930430435:create_parking_lot 7
+1707930454529:park HR26CV7391 Grey
+1707930601253:park HR26CV7391
+1707932223598:park 123 1
+1707932345723:park HR26CV7391 Grey
+1707963133600:create_parking_lot 5
+1707963143617:park 1
+1707963179753:park 2
+1707963214899:create_parking_lot 3
+1707963218908:park 1
+1707963223925:park 2
+1707963226936:park 3
+1707963242993:park 4
+1707963251019:leave 2
+1707963327265:park ABC abc
+1707963579070:create_parking_lot 3
+1707963589091:park ABC abc
+1707963597114:park DEF def
+1707963605140:park GHI ghi
+1707963630224:leave 2
+1708005759134:create_parking_lot 6
+1708005768155:park KA-01-HH-1234 White
+1708005778187:park KA-01-HH-9999 White
+1708005786207:park KA-01-BB-0001 Black
+1708005794229:park KA-01-HH-7777 Red
+1708005801252:park KA-01-HH-2701 Blue
+1708005809282:park KA-01-HH-3141 Black
+1708005817303:leave 4
+1708005827342:park KA-01-P-333 White
+1708005834365:park DL-12-AA-9999 White
+1708005842387:registration_numbers_for_cars_with_colour White
+1708015455474:create_parking_lot 9
+1708015530148:park HR26CV7391 Grey
+1708018862886:status
+1708018910054:create_parking_lot 3
+1708018916077:park ABC abc
+1708018923086:status
+1708019497260:create_parking_lot 3
+1708019503274:park ABC abc
+1708019508296:status
+1708019900334:create_parking_lot
+1708019907353:create_parking_lot 3
+1708019912364:park ABC abc
+1708019915375:status
+1708020178079:create_parking_lot 3
+1708020182083:park abc abc
+1708020186095:status
+1708020219571:park
+1708020223587:park abc abc
+1708021595487:create_parking_lot 3
+1708021599500:park abc abc
+1708021615564:registration_numbers_for_cars_with_colour abc
+1708021767481:create_parking_lot 3
+1708021771492:park abc abc
+1708021779529:registration_numbers_for_cars_with_colour abc
+1708021947437:create_parking_slot 3
+1708021961492:create_parking_lot 3
+1708021968505:park abc abc
+1708021983559:park ghj abc
+1708022001620:park dfr xyz
+1708022009646:park qwe qwe
+1708022015658:status
+1708022022686:color
+1708022028711:color abc
+1708022042760:registration_numbers_for_cars_with_colour abc
+1708022151860:create_parking_lot 3
+1708022158871:park abc abc
+1708022172921:park def abc
+1708022181954:park wer dfg
+1708022192987:status
+1708022205028:registration_numbers_for_cars_with_colour abc
+1708022214054:registration_numbers_for_cars_with_colour dfg
+1708022227128:registration_numbers_for_cars_with_colour tyr
+1708022321384:create_parking_lot 3
+1708022326392:park abc abc
+1708022331415:park def abc
+1708022338446:park wer hjl
+1708022350494:registration_numbers_for_cars_with_colour wer
+1708022364548:leave 1
+1708022368557:status
+1708022386628:park qwe opl
+1708060382793:status
+1708060785857:create_parking_lot 1
+1708060790868:park abc abc
+1708060795884:park bcd bcd
+1708060816429:park
+1708060821438:park abc abc
+1708061241935:create_parking_lot 1
+1708061245943:park abc acb
+1708061252001:park abc def
+1708091335931:create_parking_lot 6
+1708091345947:park KA-01-HH-1234 White
+1708091353963:park KA-01-HH-9999 White
+1708091361991:park KA-01-BB-0001 Black
+1708091370017:park KA-01-HH-7777 Red
+1708091378044:park KA-01-HH-2701 Blue
+1708091386075:park KA-01-HH-3141 Black
+1708091401118:leave 4
+1708091411153:status
+1708091447289:registration_numbers_for_cars_with_colour White
+1708091479398:registration_numbers_for_cars_with_colour Pink
+1708091503473:leave 10
+1708091647986:exit
+1708091673630:park abc abc
+1708091702906:leave
+1708091707919:leave 2
+1708091838283:park abc abc
+1708091843292:leave 2
+1708091849309:status
+1708091857342:registration_numbers_for_cars_with_colour pink
